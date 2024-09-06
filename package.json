@@ -1,11 +1,11 @@
 {
-  "name": "caixabank-data-generator",
+  "name": "caixabank-dataset-generator",
   "version": "1.0.0",
   "type": "module",
-  "description": "A utility to generate data for the CaixaBank app",
-  "main": "generator.js",
+  "description": "A utility to generate a dataset for the CaixaBank app",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
   "author": "Daniel Muelle",
   "license": "ISC"
